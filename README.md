@@ -3,7 +3,7 @@
 A premium, high-end slider design for a luxury real estate application. This project features smooth CSS transitions, glassmorphism UI elements, and a dynamic progress-bar-driven auto-play system.
 
 ## 🚀 Demo
-[View Live Demo](https://yourusername.github.io/challenge-072-slider/) *(Replace with your actual GitHub Pages link after publishing)*
+[View Live Demo](https://abhijeetsinghdevgan.github.io/Challenge-072-Prompt-Slider/)
 
 ## ✨ Features
 - **Luxury Aesthetic**: Dark theme with gold accents and high-quality imagery.
@@ -26,7 +26,7 @@ A premium, high-end slider design for a luxury real estate application. This pro
 2. Push this code to the repository.
 3. Go to **Settings > Pages**.
 4. Select the `main` branch and `/root` folder as the source.
-5. Click **Save**. Your site will be live at `https://yourusername.github.io/your-repo-name/`.
+5. Click **Save**. Your site will be live at `https://abhijeetsinghdevgan.github.io/Challenge-072-Prompt-Slider/`.
 
 ---
 *Created for the Daily UI Challenge.*

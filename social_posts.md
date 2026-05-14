@@ -14,7 +14,7 @@ Introducing **Lumina Estates** – a luxury property slider designed to showcase
 
 Building this was a great exercise in balancing visual weight and interaction design. 
 
-Check out the code and the live demo here: [Insert Link]
+Check out the code and the live demo here: https://abhijeetsinghdevgan.github.io/Challenge-072-Prompt-Slider/
 
 #WebDesign #UIUX #DailyUI #FrontendDevelopment #Javascript #CodingChallenge #LuxuryRealEstate #LuminaEstates
 
@@ -30,6 +30,6 @@ I built "Lumina Estates" - a high-end property slider with:
 💎 Glassmorphism UI
 ⏳ Progress-bar auto-play
 
-Check it out: [Insert Link]
+Check it out: https://abhijeetsinghdevgan.github.io/Challenge-072-Prompt-Slider/
 
 #DailyUI #CodeChallenge #WebDesign #100DaysOfCode
